@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Next 13 demo
+          Next 13 demo - staging
         </h1>
       </main>
 
